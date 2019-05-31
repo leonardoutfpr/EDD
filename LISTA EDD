@@ -1,0 +1,49 @@
+exercicio 2 lista edd
+
+endereço direto
+colisao - nao inserir
+endereçamento aberto - colocar no proximo vetor ou fazer encadeamento.
+
+insersao(KEY,ELEMENTO)
+		T[KEY]=ELEMENTO;
+
+void remove(T,k,*E)
+	*E=T[K];
+	T[K]=NULL;
+
+consulta(K)
+	return T[K];
+
+
+
+exercicio 3
+
+encadeamento - lista;
+tabela de tamanho 10;
+possui colisoes;
+
+exercicio 4
+	//
+
+exercicio 5
+
+
+exercicio 9 
+
+arvore binaria de busca 
+
+altura - 2,3,4,5,6
+
+
+
+             10
+	4	    17	
+     1     5     16      21
+
+
+
+
+
+
+	  		
+
